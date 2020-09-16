@@ -33,10 +33,8 @@ int main()
 			printf("Número par, raiz quadrada %.2f.", sqOrSqrt);
 		else
 			printf("Número ímpar, o quadrado de %d é %d.", number, (int)sqOrSqrt);
-		
 		getch();
 		i--;
 	}
-	
 	return 1;
 }
