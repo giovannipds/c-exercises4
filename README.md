@@ -4,7 +4,7 @@ Fourth week of C/C++ exercises, Algorithms & Programming II, [Analysis and Syste
 
 Exercises list at [w04exercises.pdf](w04exercises.pdf) (pt-BR).
 
-<!-- **Update:** professor answers are the files ended with "-profsr". -->
+**Update:** professor answers are the files ended with "-profsr".
 
 ## Serie links:
 
