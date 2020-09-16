@@ -17,7 +17,7 @@ int main()
 		// ask name
 		printf("Digite o nome da pessoa: ");
 		fflush(stdin);
-		scanf("%49[^\n]s", &name);
+		scanf("%254[^\n]s", &name);
 		
 		// ask sex
 		do
