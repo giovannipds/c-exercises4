@@ -14,7 +14,6 @@ int main()
 	// ask for n
 	printf("Digite quantos números você quer ler: ");
 	scanf("%d", &n);
-	n = abs(n);
 	
 	// iterate
 	i = n;
